@@ -1,0 +1,5 @@
+name = "JamesRegistry"
+uuid = "b3ae18f0-318c-400a-bce8-cc5570b1ac58"
+repo = "https://github.com/jamesgardner1421/JamesRegistry"
+
+[packages]
