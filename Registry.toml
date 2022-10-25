@@ -3,3 +3,4 @@ uuid = "b3ae18f0-318c-400a-bce8-cc5570b1ac58"
 repo = "https://github.com/jamesgardner1421/JamesRegistry"
 
 [packages]
+65b38e5c-fa97-498f-814c-2dc0ae7de8a9 = { name = "JamesPlots", path = "J/JamesPlots" }
